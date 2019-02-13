@@ -1,0 +1,2 @@
+To access the data please follow this URL to Kaggle competition 
+[https://www.kaggle.com/c/elo-merchant-category-recommendation/data](https://www.kaggle.com/c/elo-merchant-category-recommendation/data "data")
